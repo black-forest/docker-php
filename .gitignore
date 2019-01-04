@@ -1,1 +1,5 @@
 .idea
+build-user.sh
+build.sh
+exec.sh
+test
